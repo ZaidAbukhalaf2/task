@@ -1,0 +1,16 @@
+.b{
+
+ 
+    
+    background-color: lightsteelblue;
+    border-radius: 6px;
+    height: 33px;
+}
+
+.card-text{
+
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
